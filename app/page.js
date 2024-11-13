@@ -24,7 +24,7 @@ const CollegePrepWebsite = () => {
               <Card className="bg-white text-blue-900 p-6">
                 <CardTitle className="text-xl mb-4">Recent Cornell Graduate</CardTitle>
                 <p className="font-semibold">with Magna Cum Laude honors</p>
-                <p className="text-blue-700">Cornell O'Kane Scholar</p>
+                <p className="text-blue-700">Cornell O&apos;Kane Scholar</p>
               </Card>
             </div>
           </div>
@@ -48,7 +48,7 @@ const CollegePrepWebsite = () => {
           <div>
             <h2 className="text-2xl font-bold mb-6">Why Choose Me:</h2>
             <div className="space-y-4">
-              <p>• Mentored for Cornell University's College Readiness Initiative & Youth Outreach</p>
+              <p>• Mentored for Cornell University&apos;s College Readiness Initiative & Youth Outreach</p>
               <p>• Regents Scholar @ 3 Univ of California Schools</p>
               <p>• Full Ride - Fiat Lux Scholar @ UC Berkeley</p>
               <p>• Phoenix Scholar @ Stanford University</p>
