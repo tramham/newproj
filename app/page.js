@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import { GraduationCap, BookOpen, Edit, Award, Clock, Mail, Phone, CheckCircle2, Building2, Users, Trophy, Heart, DollarSign, BookOpenCheck } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
