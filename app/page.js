@@ -54,7 +54,7 @@ const PhilosophyPage = () => (
               <h3 className="text-2xl font-semibold">Student-Centered Approach</h3>
             </div>
             <p className="text-gray-700 leading-relaxed">
-              Every student has a unique story. My role is to help you discover and articulate your authentic voice while providing the tools and guidance needed for success.
+              Every student has a unique story to tell. My role is to help you discover and articulate your authentic voice while providing the tools and guidance needed for success.
             </p>
           </CardContent>
         </Card>
