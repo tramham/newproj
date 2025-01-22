@@ -72,7 +72,7 @@ const WhyTramPage = () => (
           <div className="sticky top-8">
             <img 
               src="/api/placeholder/400/500" 
-              alt="Tram's Profile"
+              alt="Tram&aposs Profile"
               className="rounded-lg shadow-lg mb-6"
             />
             <div className="bg-white rounded-lg shadow-lg p-6">
@@ -95,7 +95,7 @@ const WhyTramPage = () => (
           <h2 className="text-4xl font-bold">Why Choose Me As Your Mentor</h2>
           <div className="prose max-w-none">
             <p className="text-lg text-gray-700">
-              I've been very lucky to have mentored so many amazing students, and I only hope they've learned as much as they taught me during our time together.
+              I&aposve been very lucky to have mentored so many amazing students, and I only hope they&aposve learned as much as they taught me during our time together.
             </p>
             {/* Add more content about your experience and approach */}
           </div>
