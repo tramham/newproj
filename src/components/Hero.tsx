@@ -27,7 +27,7 @@ const Hero = () => {
               Your Journey to College Success Starts Here
             </h1>
             <p className="text-xl mb-8 text-gray-100">
-              One's college journey is more than just applications—it's the foundation for a lifetime of opportunities. 
+              One&apos;s college journey is more than just applications—it&apos;s the foundation for a lifetime of opportunities. 
               Let me guide you through this transformative process with personalized mentorship.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
