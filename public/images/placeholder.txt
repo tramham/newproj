@@ -1,0 +1,7 @@
+Required images for the website:
+
+1. cornell-campus.jpg - A wide shot of Cornell University campus
+2. cornell-clocktower.jpg - A shot of the Cornell clock tower
+3. profile.jpg - A professional headshot
+
+Please replace these placeholder images with actual high-quality images before deploying the website. 
