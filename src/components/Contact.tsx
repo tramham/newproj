@@ -88,7 +88,7 @@ const Contact = () => {
             <div className="bg-white rounded-lg shadow-md p-8 h-full">
               <h3 className="text-2xl font-bold mb-6">Send a Message</h3>
               <p className="text-gray-600 mb-6">
-                Fill out the form below to get in touch. I'll respond within 24 hours to schedule a consultation or answer your questions.
+                Fill out the form below to get in touch. I&apos;ll respond within 24 hours to schedule a consultation or answer your questions.
               </p>
               
               <iframe

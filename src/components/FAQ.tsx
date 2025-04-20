@@ -55,34 +55,34 @@ const FAQ = () => {
         <div>
           <p className="mb-2">
             Sessions are conducted virtually or in-person, tailored to your needs and schedule. 
-            We'll create a personalized plan based on your goals and timeline.
+            We&apos;ll create a personalized plan based on your goals and timeline.
           </p>
           <p>
-            Each session is focused on specific aspects of your application, whether it's 
+            Each session is focused on specific aspects of your application, whether it&apos;s 
             brainstorming essay topics, reviewing drafts, or developing your application strategy.
           </p>
         </div>
       )
     },
     {
-      question: "What's included in the essay editing service?",
+      question: "What&apos;s included in the essay editing service?",
       answer: (
         <div>
           <p className="mb-2">
             As a mentor, I guide students through a comprehensive process of brainstorming, drafting, and refinement. 
-            Through thoughtful reflection and strategic storytelling, we craft compelling essays that showcase each student's unique strengths 
+            Through thoughtful reflection and strategic storytelling, we craft compelling essays that showcase each student&apos;s unique strengths 
             and experiences.
           </p>
           <p>
             Beyond helping students gain an edge in college admissions, this process develops critical thinking and writing skills that serve
             them well beyond college—from club applications to career advancement. 
-            The result? Essays they're proud of and writing confidence that lasts a lifetime.
+            The result? Essays they&apos;re proud of and writing confidence that lasts a lifetime.
           </p>
         </div>
       )
     },
     {
-      question: "Can I personalize a package to meet my student's needs?",
+      question: "Can I personalize a package to meet my student&apos;s needs?",
       answer: (
         <p>
           Of course! I am more than happy to create a customized plan that meets your specific needs and budget. 
@@ -100,7 +100,7 @@ const FAQ = () => {
             This includes analyzing acceptance rates, program strengths, campus culture, and financial considerations.
           </p>
           <p>
-            Together, we'll create a balanced list of reach, target, and safety schools to maximize your chances of acceptance 
+            Together, we&apos;ll create a balanced list of reach, target, and safety schools to maximize your chances of acceptance 
             while ensuring you have options that excite you.
           </p>
         </div>
@@ -111,11 +111,11 @@ const FAQ = () => {
       answer: (
         <div>
           <p className="mb-2">
-            My approach is personalized and holistic. I don't just focus on getting you into college—I help you develop skills 
+            My approach is personalized and holistic. I don&apos;t just focus on getting you into college—I help you develop skills 
             and confidence that will serve you throughout your academic and professional life.
           </p>
           <p>
-            With my experience at Cornell University's Undergraduate Admissions Office, I offer insider knowledge of how 
+            With my experience at Cornell University&apos;s Undergraduate Admissions Office, I offer insider knowledge of how 
             admissions committees evaluate applications. This perspective, combined with my commitment to authentic storytelling, 
             helps students present their best selves in their applications.
           </p>
@@ -146,7 +146,7 @@ const FAQ = () => {
         
         <div className="mt-12 text-center">
           <p className="text-gray-600 mb-6">
-            Still have questions? I'm here to help!
+            Still have questions? I&apos;m here to help!
           </p>
           <a 
             href="#contact" 

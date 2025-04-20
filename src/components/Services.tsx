@@ -1,4 +1,4 @@
-import { CheckCircle, GraduationCap, Award, Clock, BookOpen, Users, FileText, MessageSquare } from 'lucide-react';
+import { CheckCircle } from 'lucide-react';
 import Link from 'next/link';
 
 const ServiceCard = ({ 
@@ -111,7 +111,7 @@ const Services = () => {
         
         <div className="mt-16 text-center">
           <p className="text-gray-600 mb-6">
-            Need a customized package? I'm happy to work with you to create a plan that meets your specific needs.
+            Need a customized package? I&apos;m happy to work with you to create a plan that meets your specific needs.
           </p>
           <Link 
             href="#contact" 
