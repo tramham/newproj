@@ -8,14 +8,14 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">About Me</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            As a Cornell University graduate with extensive experience in college admissions, I&apos;m passionate about helping students achieve their academic dreams.
+            As a Cornell University graduate with extensive experience in college admissions, I'm passionate about helping students achieve their academic dreams.
           </p>
         </div>
         
         <div className="grid md:grid-cols-2 gap-12 items-center mb-20">
           <div className="relative h-[500px] rounded-lg overflow-hidden shadow-xl">
             <Image
-              src="/images/TramHuynh_profile.jpg"
+              src="/src/components/images/TramHuynh_profile.jpg"
               alt="Cornell University Profile"
               fill
               style={{ objectFit: 'cover' }}
@@ -26,7 +26,7 @@ const About = () => {
           <div>
             <h3 className="text-2xl font-bold mb-6">Tram Huynh</h3>
             <p className="text-gray-700 mb-6">
-              I believe in education and mentorship as transformative forces in a young person&apos;s life.
+              I believe in education and mentorship as transformative forces in a young person's life.
               Having had a mentor who profoundly changed my life, I am passionate about being that person for others.
             </p>
             <p className="text-gray-700 mb-6">
@@ -45,7 +45,7 @@ const About = () => {
             <div className="grid grid-cols-2 gap-4 mt-8">
               <div className="flex items-center">
                 <GraduationCap className="text-red-700 mr-2" size={24} />
-                <span className="font-medium">Cornell University &apos;24</span>
+                <span className="font-medium">Cornell University '24</span>
               </div>
               <div className="flex items-center">
                 <Award className="text-red-700 mr-2" size={24} />
@@ -53,7 +53,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <BookOpen className="text-red-700 mr-2" size={24} />
-                <span className="font-medium">O&apos;Kane Scholar</span>
+                <span className="font-medium">O'Kane Scholar</span>
               </div>
               <div className="flex items-center">
                 <Users className="text-red-700 mr-2" size={24} />
@@ -74,7 +74,7 @@ const About = () => {
                     <GraduationCap size={16} />
                   </div>
                   <div>
-                    <p className="font-medium">Cornell University &apos;24</p>
+                    <p className="font-medium">Cornell University '24</p>
                     <p className="text-gray-600">Early Graduate, Magna Cum Laude Honors</p>
                   </div>
                 </li>
@@ -83,7 +83,7 @@ const About = () => {
                     <Award size={16} />
                   </div>
                   <div>
-                    <p className="font-medium">Cornell O&apos;Kane Scholar</p>
+                    <p className="font-medium">Cornell O'Kane Scholar</p>
                     <p className="text-gray-600">Academic Excellence Recognition</p>
                   </div>
                 </li>
@@ -125,7 +125,7 @@ const About = () => {
                     <Users size={16} />
                   </div>
                   <div>
-                    <p className="font-medium">Cornell&apos;s College & Career Readiness Initiative (CCRI)</p>
+                    <p className="font-medium">Cornell's College & Career Readiness Initiative (CCRI)</p>
                     <p className="text-gray-600">College preparation mentor</p>
                   </div>
                 </li>

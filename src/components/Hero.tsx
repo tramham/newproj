@@ -10,7 +10,7 @@ const Hero = () => {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/cornell-campus.jpg"
+          src="/src/components/images/cornell-campus.jpg"
           alt="Cornell University Campus"
           fill
           style={{ objectFit: 'cover' }}
@@ -27,7 +27,7 @@ const Hero = () => {
               Your Journey to College Success Starts Here
             </h1>
             <p className="text-xl mb-8 text-gray-100">
-              One&apos;s college journey is more than just applications—it&apos;s the foundation for a lifetime of opportunities. 
+              One's college journey is more than just applications—it's the foundation for a lifetime of opportunities. 
               Let me guide you through this transformative process with personalized mentorship.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -49,7 +49,7 @@ const Hero = () => {
           <div className="hidden md:block">
             <div className="relative h-80 w-full rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/images/cornell-clocktower.jpg"
+                src="/src/components/images/cornell-clocktower.jpg"
                 alt="Cornell University Clock Tower"
                 fill
                 style={{ objectFit: 'cover' }}
