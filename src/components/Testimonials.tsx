@@ -17,7 +17,7 @@ const testimonials = [
   {
     id: 3,
     school: 'Student currently attending UC Berkeley',
-    quote: "Best mentor I could've asked for!",
+    quote: "I was on a big time crunch but Tram was genuinely so helpful through it all. She was reassuring throughout the whole process and worked very fast to support me applying to college!",
     rating: 5
   },
   {
@@ -25,11 +25,11 @@ const testimonials = [
     school: 'Student currently attending Johns Hopkins Grad School',
     quote: "Tram's guidance helped me to think deeply and reflect more. I was able to craft essays that reflected my personality and experiences",
     rating: 5
-  },
+  },s
   {
     id: 5,
     school: 'Student currently attending Dartmouth Grad School',
-    quote: "I was on a big time crunch but Tram was genuinely so helpful through it all. She was reassuring throughout the whole process and worked very fast to support me applying to college!",
+    quote: "Best mentor I could've asked for!",
     rating: 5
   }
 ];
@@ -115,7 +115,7 @@ const Testimonials = () => {
               <p className="font-bold text-red-700">Stanford University</p>
             </div>
             <div className="bg-white p-4 rounded-lg shadow-sm text-center">
-              <p className="font-bold text-red-700">UC Berkeley & UCLA</p>
+              <p className="font-bold text-red-700">UCB & UCLA</p>
             </div>
             <div className="bg-white p-4 rounded-lg shadow-sm text-center">
               <p className="font-bold text-red-700">Johns Hopkins</p>
