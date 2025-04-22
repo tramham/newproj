@@ -10,7 +10,7 @@ const Hero = () => {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/src/components/images/cornell-campus.jpg"
+          src="/images/cornell-campus.jpg"
           alt="Cornell University Campus"
           fill
           style={{ objectFit: 'cover' }}
@@ -49,7 +49,7 @@ const Hero = () => {
           <div className="hidden md:block">
             <div className="relative h-80 w-full rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/src/components/images/cornell-clocktower.jpg"
+                src="/images/cornell-clocktower.jpg"
                 alt="Cornell University Clock Tower"
                 fill
                 style={{ objectFit: 'cover' }}

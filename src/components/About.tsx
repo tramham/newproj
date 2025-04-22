@@ -15,7 +15,7 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center mb-20">
           <div className="relative h-[500px] rounded-lg overflow-hidden shadow-xl">
             <Image
-              src="/src/components/images/TramHuynh_profile.jpg"
+              src="/images/TramHuynh_profile.jpg"
               alt="Cornell University Profile"
               fill
               style={{ objectFit: 'cover' }}

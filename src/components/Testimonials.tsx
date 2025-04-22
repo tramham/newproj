@@ -6,7 +6,7 @@ const testimonials = [
     id: 1,
     name: 'Sarah Johnson',
     school: 'Cornell University',
-    quote: "Tram&apos;s guidance was invaluable during my college application process. Her insights helped me craft essays that truly reflected my personality and experiences. I&apos;m now a proud Cornell student!",
+    quote: "Tram's guidance was invaluable during my college application process. Her insights helped me craft essays that truly reflected my personality and experiences. I'm now a proud Cornell student!",
     rating: 5
   },
   {
@@ -20,21 +20,21 @@ const testimonials = [
     id: 3,
     name: 'Emily Rodriguez',
     school: 'UC Berkeley',
-    quote: "Tram&apos;s expertise in college admissions is unmatched. She helped me identify my strengths and present them effectively in my applications. I couldn&apos;t have done it without her!",
+    quote: "Tram's expertise in college admissions is unmatched. She helped me identify my strengths and present them effectively in my applications. I couldn't have done it without her!",
     rating: 5
   },
   {
     id: 4,
     name: 'David Kim',
     school: 'Johns Hopkins University',
-    quote: "The mock interviews and essay feedback were game-changers for my application process. Tram&apos;s guidance was instrumental in helping me get accepted to my dream school.",
+    quote: "The mock interviews and essay feedback were game-changers for my application process. Tram's guidance was instrumental in helping me get accepted to my dream school.",
     rating: 5
   },
   {
     id: 5,
     name: 'Olivia Williams',
     school: 'Dartmouth College',
-    quote: "Tram&apos;s mentorship went beyond just college applications. She helped me develop skills that I continue to use in my academic and professional life. I&apos;m forever grateful!",
+    quote: "Tram's mentorship went beyond just college applications. She helped me develop skills that I continue to use in my academic and professional life. I'm forever grateful!",
     rating: 5
   }
 ];
