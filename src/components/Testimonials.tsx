@@ -25,7 +25,7 @@ const testimonials = [
     school: 'Student currently attending Johns Hopkins Grad School',
     quote: "Tram's guidance helped me to think deeply and reflect more. I was able to craft essays that reflected my personality and experiences",
     rating: 5
-  },s
+  },
   {
     id: 5,
     school: 'Student currently attending Dartmouth Grad School',
