@@ -38,7 +38,7 @@ const TestimonialCard = ({ testimonial }: { testimonial: typeof testimonials[0] 
   return (
     <div className="bg-white p-6 rounded-lg shadow-md h-full">
       <div className="mb-4">
-        <p className="text-red-700 font-medium">Currently attending {testimonial.school}</p>
+        <p className="text-red-700 font-medium"> {testimonial.school}</p>
       </div>
       <div className="flex mb-4">
         {[...Array(testimonial.rating)].map((_, i) => (
