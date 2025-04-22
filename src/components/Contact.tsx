@@ -47,7 +47,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-lg">Location</h4>
-                    <p>Ithaca, NY / San Francisco Bay Area</p>
+                    <p>New York Tristate | San Francisco Bay Area</p>
                     <p className="text-sm text-gray-600">Available for in-person and virtual consultations</p>
                   </div>
                 </div>
@@ -58,8 +58,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-lg">Availability</h4>
-                    <p>Monday - Friday: 9am - 6pm EST</p>
-                    <p>Weekend appointments available upon request</p>
+                    <p>Monday - Friday: 9am - 5pm EST</p>
+                    <p>For quickest response, please email me</p>
                   </div>
                 </div>
               </div>
