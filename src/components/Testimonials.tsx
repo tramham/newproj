@@ -11,7 +11,7 @@ const testimonials = [
   {
     id: 2,
     school: 'Parent of student currently attending USC',
-    quote: "I’m really glad we found Tram as she does the due diligence and supported my son develop skills to write on his own.",
+    quote: "I’m really glad we found Tram as she does the due diligence and supported  in developing skills to write on his own.",
     rating: 5
   },
   {
