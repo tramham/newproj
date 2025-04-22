@@ -83,7 +83,7 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="text-red-500 mr-2 mt-1" size={18} />
                 <span className="text-gray-400">
-                  Ithaca, NY / San Francisco Bay Area
+                New York Tristate / San Francisco Bay Area
                 </span>
               </li>
             </ul>
