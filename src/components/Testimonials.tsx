@@ -4,37 +4,32 @@ import { ChevronLeft, ChevronRight, Star } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    name: 'Sarah Johnson',
-    school: 'Cornell University',
-    quote: "Tram's guidance was invaluable during my college application process. Her insights helped me craft essays that truly reflected my personality and experiences. I'm now a proud Cornell student!",
+    school: 'Student currently attending Cornell University',
+    quote: "Tram helped me build confidence in myself and told me to dream big. She really mentored me and helped me become proud of my application, and for that I am grateful for her efforts.",
     rating: 5
   },
   {
     id: 2,
-    name: 'Michael Chen',
-    school: 'Stanford University',
-    quote: "Working with Tram gave me the confidence I needed to apply to top universities. Her personalized approach and attention to detail made all the difference in my applications.",
+    school: 'Parent of student currently attending USC',
+    quote: "I’m really glad we found Tram as she does the due diligence and supported my son develop skills to write on his own.",
     rating: 5
   },
   {
     id: 3,
-    name: 'Emily Rodriguez',
-    school: 'UC Berkeley',
-    quote: "Tram's expertise in college admissions is unmatched. She helped me identify my strengths and present them effectively in my applications. I couldn't have done it without her!",
+    school: 'Student currently attending UC Berkeley',
+    quote: "Best mentor I could've asked for!",
     rating: 5
   },
   {
     id: 4,
-    name: 'David Kim',
-    school: 'Johns Hopkins University',
-    quote: "The mock interviews and essay feedback were game-changers for my application process. Tram's guidance was instrumental in helping me get accepted to my dream school.",
+    school: 'Student currently attending Johns Hopkins Grad School',
+    quote: "Tram's guidance helped me to think deeply and reflect more. I was able to craft essays that reflected my personality and experiences",
     rating: 5
   },
   {
     id: 5,
-    name: 'Olivia Williams',
-    school: 'Dartmouth College',
-    quote: "Tram's mentorship went beyond just college applications. She helped me develop skills that I continue to use in my academic and professional life. I'm forever grateful!",
+    school: 'Student currently attending Dartmouth Grad School',
+    quote: "I was on a big time crunch but Tram was genuinely so helpful through it all. She was reassuring throughout the whole process and worked very fast to support me applying to college!",
     rating: 5
   }
 ];
@@ -43,8 +38,7 @@ const TestimonialCard = ({ testimonial }: { testimonial: typeof testimonials[0] 
   return (
     <div className="bg-white p-6 rounded-lg shadow-md h-full">
       <div className="mb-4">
-        <h4 className="font-bold text-lg">{testimonial.name}</h4>
-        <p className="text-red-700">{testimonial.school}</p>
+        <p className="text-red-700 font-medium">Currently attending {testimonial.school}</p>
       </div>
       <div className="flex mb-4">
         {[...Array(testimonial.rating)].map((_, i) => (
@@ -121,7 +115,7 @@ const Testimonials = () => {
               <p className="font-bold text-red-700">Stanford University</p>
             </div>
             <div className="bg-white p-4 rounded-lg shadow-sm text-center">
-              <p className="font-bold text-red-700">UC Berkeley</p>
+              <p className="font-bold text-red-700">UC Berkeley & UCLA</p>
             </div>
             <div className="bg-white p-4 rounded-lg shadow-sm text-center">
               <p className="font-bold text-red-700">Johns Hopkins</p>
@@ -133,7 +127,7 @@ const Testimonials = () => {
               <p className="font-bold text-red-700">USC</p>
             </div>
             <div className="bg-white p-4 rounded-lg shadow-sm text-center">
-              <p className="font-bold text-red-700">UCLA</p>
+              <p className="font-bold text-red-700">Vanderbilt University</p>
             </div>
             <div className="bg-white p-4 rounded-lg shadow-sm text-center">
               <p className="font-bold text-red-700">And Many More</p>

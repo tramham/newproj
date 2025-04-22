@@ -65,7 +65,7 @@ const FAQ = () => {
       )
     },
     {
-      question: "What&apos;s included in the essay editing service?",
+      question: "What's included in the essay editing service?",
       answer: (
         <div>
           <p className="mb-2">
