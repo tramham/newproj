@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const WritingCourses = () => {
   return (
     <section id="writing-courses" className="py-20 bg-gray-50">
@@ -12,7 +13,7 @@ const WritingCourses = () => {
             <h3 className="text-2xl font-semibold mb-4 text-gray-800">Common Application Essay Course</h3>
             <p className="text-gray-600 mb-6">
               Master the art of writing a compelling Common Application essay in this 5-week intensive course.
-              By the end, you'll have a polished draft ready for submission.
+              By the end, you&apos;ll have a polished draft ready for submission.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
