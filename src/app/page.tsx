@@ -3,6 +3,7 @@ import { Analytics } from '@vercel/analytics/react'
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import Services from '@/components/Services';
+import WritingCourses from '@/components/WritingCourses';
 import About from '@/components/About';
 import Testimonials from '@/components/Testimonials';
 import FAQ from '@/components/FAQ';
@@ -16,6 +17,7 @@ const MentorshipWebsite = () => {
       <Navbar />
       <Hero />
       <Services />
+      <WritingCourses />
       <About />
       <Testimonials />
       <FAQ />
