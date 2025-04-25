@@ -62,7 +62,7 @@ const WritingCourses = () => {
           <div className="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition-shadow">
             <h3 className="text-2xl font-semibold mb-4 text-gray-800">Comprehensive Essay Writing Workshop</h3>
             <p className="text-red-700 font-medium">Learn to Write Any Type of Essay with Confidence</p>
-            <p className="text-gray-600 mb-6"> Whether you're applying for scholarships, internships, or specialized programs, this 6-week course delivers personalized guidance for any essay challenge. Don't have a specific essay in mind? We'll help you identify opportunities and craft a compelling application for you to submit by the end of the course.
+            <p className="text-gray-600 mb-6"> Whether you&apos;re applying for scholarships, internships, or specialized programs, this 6-week course delivers personalized guidance for any essay challenge. Don&apos;t have a specific essay in mind? We&apos;ll help you identify opportunities and craft a compelling application for you to submit by the end of the course.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
