@@ -82,7 +82,7 @@ const FAQ = () => {
       )
     },
     {
-      question: "Can I personalize a package to meet my student&apos;s needs?",
+      question: "Can I personalize a package to meet my student's needs?",
       answer: (
         <p>
           Of course! I am more than happy to create a customized plan that meets your specific needs and budget. 
