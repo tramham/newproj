@@ -49,7 +49,7 @@ const WritingCourses = () => {
               </ul>
             </div>
             <div className="mt-6">
-              <p className="text-2xl font-bold text-gray-800">$500</p>
+              <p className="text-2xl font-bold text-gray-800">$200</p>
               <Link href="#contact">
                 <button className="mt-4 w-full bg-red-700 text-white py-2 px-4 rounded-md hover:bg-red-800 transition-colors">
                   Enroll Now
@@ -95,7 +95,7 @@ const WritingCourses = () => {
               <p className="text-gray-600">Wednesday 6-7pm EST (May 7th - June 11th, 2025)</p>
             </div>
             <div className="mt-6">
-              <p className="text-2xl font-bold text-gray-800">$500</p>
+              <p className="text-2xl font-bold text-gray-800">$300</p>
               <Link href="#contact">
                 <button className="mt-4 w-full bg-red-700 text-white py-2 px-4 rounded-md hover:bg-red-800 transition-colors">
                   Enroll Now
